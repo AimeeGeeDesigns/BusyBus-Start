@@ -1,0 +1,45 @@
+body {
+  font-size: 16px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  padding: 40px 80px;
+  margin: 40px;
+  background: #	#ffffff;
+  margin: 0 auto;
+  position: relative;
+}
+
+img {
+  position: inherit;
+  padding: 40px;
+}
+
+.routes1, .routes2, .routes3, .routes4,.routes5 {
+background-color: #aaa;
+display: flex;
+width: 90%;
+padding: 40px 80px;
+border: 20px;
+margin: 0 auto;
+}
+
+.inline-block {
+  display: inline;
+  background-color: orange;
+  padding: 40px;
+}
+
+h1 {
+  font-size: 2em;
+  position: relative;
+}
+
+h2 {
+  font-size: 1.5em;
+  position: relative;
+}
+
+ol li{
+  list-style-type: none;
+  font: #000000;
+  font-size: 1em;
+}
